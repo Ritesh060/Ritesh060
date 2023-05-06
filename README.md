@@ -20,7 +20,6 @@ Currently working on unique ideas related to NLP.
 <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height = "30px">
 <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height = "30px">
 <img src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height = "30px">
-<img src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height = "30px">
 </p>
   
  #### Libraries and Frameworks
@@ -45,3 +44,4 @@ Currently working on unique ideas related to NLP.
 ### Connect with me on:
 <p align = "left">
 <a href = "https://www.linkedin.com/in/ritesh-mishra-687676223/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height = "30px"></a>
+<a href = "mailto:ritesh2002dsci@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = "30px"></a>
