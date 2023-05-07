@@ -10,7 +10,7 @@ I aspire to become a data scientist. I am always looking forward to new or real-
 
 Currently working on unique ideas related to NLP.
 
-### Skills
+## Skills
 
 #### Languages
 <p align = "left">
@@ -39,7 +39,7 @@ Currently working on unique ideas related to NLP.
 <img src = "https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height = "30px">
 </p>
 
-### Connect with me on:
+## Connect with me on:
 <p align = "left">
 <a href = "https://www.linkedin.com/in/ritesh-mishra-687676223/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height = "30px"></a>
 <a href = "mailto:ritesh2002dsci@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = "30px"></a>
