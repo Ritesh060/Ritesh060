@@ -41,7 +41,7 @@ Currently working on unique ideas related to NLP.
 <img src = "https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height = "30px">
 </p>
 
-## Cloud
+#### Cloud
 <p align = "left">
 <img src = "https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white", height = "30px">
 </p>
